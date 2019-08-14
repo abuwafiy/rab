@@ -1,0 +1,117 @@
+body{
+	font-size: 12px!important;
+	color:#242629!important;
+}
+
+.btn-group-sm > .btn, .btn-sm{
+	font-size: 12px!important;
+}
+
+.btn{
+	font-size: 12px!important;
+}
+
+.h3, h3{
+	font-size: 20px;
+}
+
+.sidebar .nav-item .nav-link span{
+	font-size: 12px!important;
+}
+
+.sidebar .nav-item .collapse .collapse-inner .collapse-item, .sidebar .nav-item .collapsing .collapse-inner .collapse-item{
+	font-size: 12px!important;
+}
+
+.form-control{
+	font-size: 12px!important;
+}
+
+.topbar{
+	height: 50px!important;
+}
+
+.table{
+	color: #242629;
+}
+
+.table-hover:hover{
+	cursor: pointer!important;
+}
+
+.table td, .table th{
+	padding: 5px 10px 5px 10px;
+	vertical-align: middle!important;
+}
+
+.sub-table{
+	padding: 12px!important;
+	padding-left:20px!important;
+    background-color: #4e73df;
+    color: white;
+}
+
+.sub-total{
+    background-color: #082245;
+    color: white;
+}
+
+.sub-subtotal{
+	background-color: none;
+}
+
+.tab-content{
+	padding: 20px!important;
+}
+
+.pad-10{
+	padding-left: 20px!important;
+}
+
+.modal-body {
+    max-height: calc(100vh - 210px);
+    overflow-y: auto;
+}
+
+.tbl td{
+	padding-top: 10px!important;
+	padding-right: 10px;
+}
+
+hr{
+	margin-bottom: 5px!important;
+}
+
+.subheader1{
+	background-color: #4e73df;
+	color: white;
+	font-style: bold;
+	text-align: center;
+}
+
+.subheader2{
+	background-color: #b51b25;
+	color: white;
+	font-style: 900;
+	text-align: center;
+}
+
+.table thead th{
+	padding: 8px;
+}
+.table thead th .th-first{
+	padding-left: 20px!important;
+}
+
+.table td, .table th{
+	padding:5px;
+}
+
+.bootstrap-select>.dropdown-toggle{
+	background-color: white!important;
+	border: 1px solid #858796;
+}
+
+.bootstrap-select>.dropdown-toggle:hover{
+	border: 2px solid #4e73df;
+}
